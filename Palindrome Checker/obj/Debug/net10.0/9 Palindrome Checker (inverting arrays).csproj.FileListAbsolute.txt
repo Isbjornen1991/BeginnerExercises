@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\bin\Debug\net10.0\9 Palindrome Checker (inverting arrays).exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\bin\Debug\net10.0\9 Palindrome Checker (inverting arrays).deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\bin\Debug\net10.0\9 Palindrome Checker (inverting arrays).runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\bin\Debug\net10.0\9 Palindrome Checker (inverting arrays).dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\bin\Debug\net10.0\9 Palindrome Checker (inverting arrays).pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\refint\9 Palindrome Checker (inverting arrays).dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\9 Palindrome Checker (inverting arrays).genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Palindrome Checker\obj\Debug\net10.0\ref\9 Palindrome Checker (inverting arrays).dll

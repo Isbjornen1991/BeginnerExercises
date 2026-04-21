@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\refint\NumberGuessingGame.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\NumberGuessingGame\obj\Debug\net10.0\ref\NumberGuessingGame.dll

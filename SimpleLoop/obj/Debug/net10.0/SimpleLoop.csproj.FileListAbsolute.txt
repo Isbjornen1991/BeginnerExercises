@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\bin\Debug\net10.0\SimpleLoop.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\bin\Debug\net10.0\SimpleLoop.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\bin\Debug\net10.0\SimpleLoop.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\bin\Debug\net10.0\SimpleLoop.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\bin\Debug\net10.0\SimpleLoop.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\refint\SimpleLoop.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\SimpleLoop.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleLoop\obj\Debug\net10.0\ref\SimpleLoop.dll

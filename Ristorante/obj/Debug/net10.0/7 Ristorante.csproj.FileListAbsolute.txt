@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\7 Ristorante.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\7 Ristorante.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\7 Ristorante.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\7 Ristorante.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\7 Ristorante.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\refint\7 Ristorante.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\7 Ristorante.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\ref\7 Ristorante.dll

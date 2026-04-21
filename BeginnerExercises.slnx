@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="8 Triangle Generator/8 Triangle Generator (for loop).csproj" Id="5212a129-62fa-49c1-a28e-5bdac1b4696a" />
+  <Project Path="Addition Functions/Addition Functions.csproj" Id="cf8dad04-83f5-4a93-89ad-aa2d5860e59b" />
+  <Project Path="BeginnerExercises/1 BeginnerExercises.csproj" />
+  <Project Path="BubbleSort/BubbleSort.csproj" Id="834ada51-2715-4784-add0-f61a49a480c4" />
+  <Project Path="Factorial/Factorial.csproj" Id="b1686182-7d92-4c96-a332-05c4e71f6635" />
+  <Project Path="FizzBuzz/FizzBuzz.csproj" Id="c2e1d577-b912-4633-94ba-760abecf4139" />
+  <Project Path="For Each Vowel Counter/Vowel Counter ForEach Variant.csproj" Id="970eb29e-4cc2-4174-b99c-e357930fb8a0" />
+  <Project Path="FunctionsIntro/FunctionsIntro.csproj" Id="8485e54d-44fd-48f1-9c0c-61dc916249c4" />
+  <Project Path="GradingMachine/5 GradingMachine.csproj" Id="f92e71d4-453b-449d-a3fd-7c74c1770e8e" />
+  <Project Path="Merging Lists/Merging Lists.csproj" Id="9bd73df4-490d-41c8-acd1-f2ee0e53a7c4" />
+  <Project Path="NumberGuessingGame/NumberGuessingGame.csproj" Id="e77b9736-40b9-4d4f-b40e-db264c941fde" />
+  <Project Path="Palindrome Checker/9 Palindrome Checker (inverting arrays).csproj" Id="1e0714e6-59dd-4d49-928a-3d55f81ba44f" />
+  <Project Path="PasswordChecker/3 PasswordChecker.csproj" Id="a04a576e-4471-4e75-b052-ab820b153897" />
+  <Project Path="Random Roller/Random Roller.csproj" Id="dbc2c34a-5ef6-4aed-919a-a04d01d6e8e0" />
+  <Project Path="Ristorante/7 Ristorante.csproj" Id="261d872c-96f3-4a11-bfa3-d88c34d07acc" />
+  <Project Path="Simple Calculator/Simple Calculator.csproj" Id="75ff71d9-4960-4d7b-8709-1c9bcf397e1a" />
+  <Project Path="SimpleAddition/4 SimpleAddition.csproj" Id="e1f6612d-dbba-4bac-916d-e81e2b947b17" />
+  <Project Path="SimpleLoop/6 SimpleLoop.csproj" Id="c2710056-8597-4a79-b142-5d6a0726238f" />
+  <Project Path="Temperature Converter/Temperature Converter.csproj" Id="5cfb51b1-2db9-4f9a-8ab5-c2527f0b744b" />
+  <Project Path="TriangleChecker/2 TriangleChecker.csproj" Id="f855c265-8ba4-41a1-a3f4-4781fb99e2ab" />
+  <Project Path="Vowel Counter/Vowel Counter.csproj" Id="328c5edc-f8e9-4922-83ae-e714c65fdd5f" />
+</Solution>

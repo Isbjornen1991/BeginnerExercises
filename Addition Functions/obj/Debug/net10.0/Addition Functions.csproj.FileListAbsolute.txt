@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\bin\Debug\net10.0\Addition Functions.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\bin\Debug\net10.0\Addition Functions.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\bin\Debug\net10.0\Addition Functions.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\bin\Debug\net10.0\Addition Functions.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\bin\Debug\net10.0\Addition Functions.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\refint\Addition Functions.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\Addition Functions.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Addition Functions\obj\Debug\net10.0\ref\Addition Functions.dll

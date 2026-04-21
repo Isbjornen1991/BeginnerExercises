@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Vowel Counter/1.0.0": {
+        "runtime": {
+          "Vowel Counter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vowel Counter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

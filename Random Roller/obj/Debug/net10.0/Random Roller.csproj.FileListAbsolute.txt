@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\bin\Debug\net10.0\Random Roller.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\bin\Debug\net10.0\Random Roller.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\bin\Debug\net10.0\Random Roller.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\bin\Debug\net10.0\Random Roller.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\bin\Debug\net10.0\Random Roller.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\refint\Random Roller.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\Random Roller.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Random Roller\obj\Debug\net10.0\ref\Random Roller.dll

@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\bin\Debug\net10.0\Vowel Counter.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\bin\Debug\net10.0\Vowel Counter.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\bin\Debug\net10.0\Vowel Counter.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\bin\Debug\net10.0\Vowel Counter.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\bin\Debug\net10.0\Vowel Counter.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\refint\Vowel Counter.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\Vowel Counter.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Vowel Counter\obj\Debug\net10.0\ref\Vowel Counter.dll

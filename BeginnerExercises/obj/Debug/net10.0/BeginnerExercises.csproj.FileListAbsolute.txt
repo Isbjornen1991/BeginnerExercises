@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\bin\Debug\net10.0\BeginnerExercises.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\bin\Debug\net10.0\BeginnerExercises.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\bin\Debug\net10.0\BeginnerExercises.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\bin\Debug\net10.0\BeginnerExercises.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\bin\Debug\net10.0\BeginnerExercises.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\refint\BeginnerExercises.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\BeginnerExercises.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\BeginnerExercises\obj\Debug\net10.0\ref\BeginnerExercises.dll

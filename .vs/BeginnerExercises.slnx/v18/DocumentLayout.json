@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FF71D9-4960-4D7B-8709-1C9BCF397E1A}|Simple Calculator\\Simple Calculator.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\simple calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FF71D9-4960-4D7B-8709-1C9BCF397E1A}|Simple Calculator\\Simple Calculator.csproj|solutionrelative:simple calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFB51B1-2DB9-4F9A-8AB5-C2527F0B744B}|Temperature Converter\\Temperature Converter.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\temperature converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFB51B1-2DB9-4F9A-8AB5-C2527F0B744B}|Temperature Converter\\Temperature Converter.csproj|solutionrelative:temperature converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77B9736-40B9-4D4F-B40E-DB264C941FDE}|NumberGuessingGame\\NumberGuessingGame.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\numberguessinggame\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77B9736-40B9-4D4F-B40E-DB264C941FDE}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\numberguesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212A129-62FA-49C1-A28E-5BDAC1B4696A}|8 Triangle Generator\\8 Triangle Generator (for loop).csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\8 triangle generator\\triangle generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212A129-62FA-49C1-A28E-5BDAC1B4696A}|8 Triangle Generator\\8 Triangle Generator (for loop).csproj|solutionrelative:8 triangle generator\\triangle generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8DAD04-83F5-4A93-89AD-AA2D5860E59B}|Addition Functions\\Addition Functions.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\addition functions\\additionfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8DAD04-83F5-4A93-89AD-AA2D5860E59B}|Addition Functions\\Addition Functions.csproj|solutionrelative:addition functions\\additionfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485E54D-44FD-48F1-9C0C-61DC916249C4}|FunctionsIntro\\FunctionsIntro.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\functionsintro\\functionsintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8485E54D-44FD-48F1-9C0C-61DC916249C4}|FunctionsIntro\\FunctionsIntro.csproj|solutionrelative:functionsintro\\functionsintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86C64-DD79-FD14-59FC-4D39B148EBB0}|BeginnerExercises\\1 BeginnerExercises.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\beginnerexercises\\1stprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C86C64-DD79-FD14-59FC-4D39B148EBB0}|BeginnerExercises\\1 BeginnerExercises.csproj|solutionrelative:beginnerexercises\\1stprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970EB29E-4CC2-4174-B99C-E357930FB8A0}|For Each Vowel Counter\\Vowel Counter ForEach Variant.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\for each vowel counter\\vowel counter foreach variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970EB29E-4CC2-4174-B99C-E357930FB8A0}|For Each Vowel Counter\\Vowel Counter ForEach Variant.csproj|solutionrelative:for each vowel counter\\vowel counter foreach variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E1D577-B912-4633-94BA-760ABECF4139}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\fizzbuzz\\fizbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E1D577-B912-4633-94BA-760ABECF4139}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\fizbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC2C34A-5EF6-4AED-919A-A04D01D6E8E0}|Random Roller\\Random Roller.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\random roller\\random roller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC2C34A-5EF6-4AED-919A-A04D01D6E8E0}|Random Roller\\Random Roller.csproj|solutionrelative:random roller\\random roller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92E71D4-453B-449D-A3FD-7C74C1770E8E}|GradingMachine\\5 GradingMachine.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\gradingmachine\\gradingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92E71D4-453B-449D-A3FD-7C74C1770E8E}|GradingMachine\\5 GradingMachine.csproj|solutionrelative:gradingmachine\\gradingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D872C-96F3-4A11-BFA3-D88C34D07ACC}|Ristorante\\7 Ristorante.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\ristorante\\ristoranteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D872C-96F3-4A11-BFA3-D88C34D07ACC}|Ristorante\\7 Ristorante.csproj|solutionrelative:ristorante\\ristoranteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834ADA51-2715-4784-ADD0-F61A49A480C4}|BubbleSort\\BubbleSort.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\bubblesort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834ADA51-2715-4784-ADD0-F61A49A480C4}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD73DF4-490D-41C8-ACD1-F2EE0E53A7C4}|Merging Lists\\Merging Lists.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\merging lists\\list merging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD73DF4-490D-41C8-ACD1-F2EE0E53A7C4}|Merging Lists\\Merging Lists.csproj|solutionrelative:merging lists\\list merging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04A576E-4471-4E75-B052-AB820B153897}|PasswordChecker\\3 PasswordChecker.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\passwordchecker\\passwordchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04A576E-4471-4E75-B052-AB820B153897}|PasswordChecker\\3 PasswordChecker.csproj|solutionrelative:passwordchecker\\passwordchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F855C265-8BA4-41A1-A3F4-4781FB99E2AB}|TriangleChecker\\2 TriangleChecker.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\trianglechecker\\trianglechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F855C265-8BA4-41A1-A3F4-4781FB99E2AB}|TriangleChecker\\2 TriangleChecker.csproj|solutionrelative:trianglechecker\\trianglechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328C5EDC-F8E9-4922-83AE-E714C65FDD5F}|Vowel Counter\\Vowel Counter.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\vowel counter\\vowel counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328C5EDC-F8E9-4922-83AE-E714C65FDD5F}|Vowel Counter\\Vowel Counter.csproj|solutionrelative:vowel counter\\vowel counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F6612D-DBBA-4BAC-916D-E81E2B947B17}|SimpleAddition\\4 SimpleAddition.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\simpleaddition\\simpleaddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F6612D-DBBA-4BAC-916D-E81E2B947B17}|SimpleAddition\\4 SimpleAddition.csproj|solutionrelative:simpleaddition\\simpleaddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1686182-7D92-4C96-A332-05C4E71F6635}|Factorial\\Factorial.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\factorial\\10 factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1686182-7D92-4C96-A332-05C4E71F6635}|Factorial\\Factorial.csproj|solutionrelative:factorial\\10 factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0714E6-59DD-4D49-928A-3D55F81BA44F}|Palindrome Checker\\9 Palindrome Checker (inverting arrays).csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\palindrome checker\\palindrome checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0714E6-59DD-4D49-928A-3D55F81BA44F}|Palindrome Checker\\9 Palindrome Checker (inverting arrays).csproj|solutionrelative:palindrome checker\\palindrome checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2710056-8597-4A79-B142-5D6A0726238F}|SimpleLoop\\6 SimpleLoop.csproj|c:\\users\\lv_jo\\source\\repos\\beginnerexercises\\simpleloop\\simpleloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2710056-8597-4A79-B142-5D6A0726238F}|SimpleLoop\\6 SimpleLoop.csproj|solutionrelative:simpleloop\\simpleloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Simple Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Simple Calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Simple Calculator\\Calculator.cs",
+              "RelativeToolTip": "Simple Calculator\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:03:44.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FizBuzz.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\FizzBuzz\\FizBuzz.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\FizBuzz.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\FizzBuzz\\FizBuzz.cs",
+              "RelativeToolTip": "FizzBuzz\\FizBuzz.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:10:25.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\BubbleSort\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\BubbleSort.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\BubbleSort\\BubbleSort.cs",
+              "RelativeToolTip": "BubbleSort\\BubbleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T13:06:23.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdditionFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Addition Functions\\AdditionFunctions.cs",
+              "RelativeDocumentMoniker": "Addition Functions\\AdditionFunctions.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Addition Functions\\AdditionFunctions.cs",
+              "RelativeToolTip": "Addition Functions\\AdditionFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:55:16.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionsIntro.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\FunctionsIntro\\FunctionsIntro.cs",
+              "RelativeDocumentMoniker": "FunctionsIntro\\FunctionsIntro.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\FunctionsIntro\\FunctionsIntro.cs",
+              "RelativeToolTip": "FunctionsIntro\\FunctionsIntro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:29:02.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "List Merging.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Merging Lists\\List Merging.cs",
+              "RelativeDocumentMoniker": "Merging Lists\\List Merging.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Merging Lists\\List Merging.cs",
+              "RelativeToolTip": "Merging Lists\\List Merging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:18:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberGuesser.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\NumberGuessingGame\\NumberGuesser.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\NumberGuesser.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\NumberGuessingGame\\NumberGuesser.cs",
+              "RelativeToolTip": "NumberGuessingGame\\NumberGuesser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:42:09.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vowel Counter ForEach Variant.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\For Each Vowel Counter\\Vowel Counter ForEach Variant.cs",
+              "RelativeDocumentMoniker": "For Each Vowel Counter\\Vowel Counter ForEach Variant.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\For Each Vowel Counter\\Vowel Counter ForEach Variant.cs",
+              "RelativeToolTip": "For Each Vowel Counter\\Vowel Counter ForEach Variant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:46:24.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vowel Counter.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Vowel Counter\\Vowel Counter.cs",
+              "RelativeDocumentMoniker": "Vowel Counter\\Vowel Counter.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Vowel Counter\\Vowel Counter.cs",
+              "RelativeToolTip": "Vowel Counter\\Vowel Counter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:33:23.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TriangleChecker.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\TriangleChecker\\TriangleChecker.cs",
+              "RelativeDocumentMoniker": "TriangleChecker\\TriangleChecker.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\TriangleChecker\\TriangleChecker.cs",
+              "RelativeToolTip": "TriangleChecker\\TriangleChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:24:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RistoranteOrder.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Ristorante\\RistoranteOrder.cs",
+              "RelativeDocumentMoniker": "Ristorante\\RistoranteOrder.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Ristorante\\RistoranteOrder.cs",
+              "RelativeToolTip": "Ristorante\\RistoranteOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:01:05.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PasswordChecker.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\PasswordChecker\\PasswordChecker.cs",
+              "RelativeDocumentMoniker": "PasswordChecker\\PasswordChecker.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\PasswordChecker\\PasswordChecker.cs",
+              "RelativeToolTip": "PasswordChecker\\PasswordChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:39:07.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Random Roller.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Random Roller\\Random Roller.cs",
+              "RelativeDocumentMoniker": "Random Roller\\Random Roller.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Random Roller\\Random Roller.cs",
+              "RelativeToolTip": "Random Roller\\Random Roller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:10:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Temperature Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Temperature Converter\\Program.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Temperature Converter\\Program.cs",
+              "RelativeToolTip": "Temperature Converter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:46:59.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1stProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\BeginnerExercises\\1stProgram.cs",
+              "RelativeDocumentMoniker": "BeginnerExercises\\1stProgram.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\BeginnerExercises\\1stProgram.cs",
+              "RelativeToolTip": "BeginnerExercises\\1stProgram.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:59:39.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Palindrome Checker.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Palindrome Checker\\Palindrome Checker.cs",
+              "RelativeDocumentMoniker": "Palindrome Checker\\Palindrome Checker.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Palindrome Checker\\Palindrome Checker.cs",
+              "RelativeToolTip": "Palindrome Checker\\Palindrome Checker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:25:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "10 Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Factorial\\10 Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial\\10 Factorial.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\Factorial\\10 Factorial.cs",
+              "RelativeToolTip": "Factorial\\10 Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:21:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimpleAddition.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\SimpleAddition\\SimpleAddition.cs",
+              "RelativeDocumentMoniker": "SimpleAddition\\SimpleAddition.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\SimpleAddition\\SimpleAddition.cs",
+              "RelativeToolTip": "SimpleAddition\\SimpleAddition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:07:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle Generator.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\8 Triangle Generator\\Triangle Generator.cs",
+              "RelativeDocumentMoniker": "8 Triangle Generator\\Triangle Generator.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\8 Triangle Generator\\Triangle Generator.cs",
+              "RelativeToolTip": "8 Triangle Generator\\Triangle Generator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:17:24.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GradingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\GradingMachine\\GradingMachine.cs",
+              "RelativeDocumentMoniker": "GradingMachine\\GradingMachine.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\GradingMachine\\GradingMachine.cs",
+              "RelativeToolTip": "GradingMachine\\GradingMachine.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:11:15.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimpleLoop.cs",
+              "DocumentMoniker": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\SimpleLoop\\SimpleLoop.cs",
+              "RelativeDocumentMoniker": "SimpleLoop\\SimpleLoop.cs",
+              "ToolTip": "C:\\Users\\lv_jo\\source\\repos\\BeginnerExercises\\SimpleLoop\\SimpleLoop.cs",
+              "RelativeToolTip": "SimpleLoop\\SimpleLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:38:15.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

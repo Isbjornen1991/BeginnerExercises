@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\bin\Debug\net10.0\GradingMachine.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\bin\Debug\net10.0\GradingMachine.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\bin\Debug\net10.0\GradingMachine.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\bin\Debug\net10.0\GradingMachine.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\bin\Debug\net10.0\GradingMachine.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\refint\GradingMachine.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\GradingMachine.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\GradingMachine\obj\Debug\net10.0\ref\GradingMachine.dll

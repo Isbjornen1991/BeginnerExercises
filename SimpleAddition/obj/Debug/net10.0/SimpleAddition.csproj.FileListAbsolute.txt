@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\bin\Debug\net10.0\SimpleAddition.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\bin\Debug\net10.0\SimpleAddition.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\bin\Debug\net10.0\SimpleAddition.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\bin\Debug\net10.0\SimpleAddition.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\bin\Debug\net10.0\SimpleAddition.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\refint\SimpleAddition.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\SimpleAddition.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\SimpleAddition\obj\Debug\net10.0\ref\SimpleAddition.dll

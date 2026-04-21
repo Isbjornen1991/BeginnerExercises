@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\bin\Debug\net10.0\8 Triangle Generator.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\bin\Debug\net10.0\8 Triangle Generator.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\bin\Debug\net10.0\8 Triangle Generator.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\bin\Debug\net10.0\8 Triangle Generator.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\bin\Debug\net10.0\8 Triangle Generator.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\refint\8 Triangle Generator.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\8 Triangle Generator.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\8 Triangle Generator\obj\Debug\net10.0\ref\8 Triangle Generator.dll

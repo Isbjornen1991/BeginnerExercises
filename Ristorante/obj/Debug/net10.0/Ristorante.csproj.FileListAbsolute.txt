@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\Ristorante.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\Ristorante.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\Ristorante.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\Ristorante.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\bin\Debug\net10.0\Ristorante.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\refint\Ristorante.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\Ristorante.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Ristorante\obj\Debug\net10.0\ref\Ristorante.dll

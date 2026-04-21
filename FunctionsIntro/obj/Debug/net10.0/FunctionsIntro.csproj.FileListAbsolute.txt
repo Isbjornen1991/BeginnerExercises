@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\bin\Debug\net10.0\FunctionsIntro.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\bin\Debug\net10.0\FunctionsIntro.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\bin\Debug\net10.0\FunctionsIntro.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\bin\Debug\net10.0\FunctionsIntro.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\bin\Debug\net10.0\FunctionsIntro.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\refint\FunctionsIntro.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\FunctionsIntro.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\FunctionsIntro\obj\Debug\net10.0\ref\FunctionsIntro.dll

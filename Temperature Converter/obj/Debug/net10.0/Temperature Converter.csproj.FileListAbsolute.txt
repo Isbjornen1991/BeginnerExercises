@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\bin\Debug\net10.0\Temperature Converter.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\bin\Debug\net10.0\Temperature Converter.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\bin\Debug\net10.0\Temperature Converter.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\bin\Debug\net10.0\Temperature Converter.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\bin\Debug\net10.0\Temperature Converter.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\refint\Temperature Converter.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\Temperature Converter.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Temperature Converter\obj\Debug\net10.0\ref\Temperature Converter.dll

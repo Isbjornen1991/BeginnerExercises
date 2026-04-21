@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\bin\Debug\net10.0\TriangleChecker.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\bin\Debug\net10.0\TriangleChecker.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\bin\Debug\net10.0\TriangleChecker.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\bin\Debug\net10.0\TriangleChecker.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\bin\Debug\net10.0\TriangleChecker.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\refint\TriangleChecker.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\TriangleChecker.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\TriangleChecker\obj\Debug\net10.0\ref\TriangleChecker.dll

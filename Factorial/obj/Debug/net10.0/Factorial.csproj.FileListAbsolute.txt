@@ -1,0 +1,14 @@
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\lv_jo\source\repos\BeginnerExercises\Factorial\obj\Debug\net10.0\ref\Factorial.dll
